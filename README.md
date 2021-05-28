@@ -1,1 +1,1 @@
-# mediaquerry.gitgub.io
+# mediaquerry.github.io
